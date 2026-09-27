@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462343666982",
+    "project_id": "vista-0ff69e80",
+    "storage_bucket": "vista-0ff69e80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462343666982:android:75f683e17ed25bebd855e7",
+        "android_client_info": {
+          "package_name": "com.example.vista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0gA-4DVbmDwhISKHNg7E41140hBkDwrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
